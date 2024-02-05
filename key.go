@@ -8,7 +8,7 @@ import (
 	"github.com/btcsuite/btcd/btcutil"
 	"github.com/btcsuite/btcd/btcutil/hdkeychain"
 	"github.com/btcsuite/btcd/txscript"
-	"github.com/leecheuk/go-hdwallet/bchutil"
+	"github.com/darrenvechain/go-hdwallet/bchutil"
 )
 
 // Key struct

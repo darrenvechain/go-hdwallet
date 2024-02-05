@@ -1,4 +1,4 @@
-## go-hdwallet (leecheuk/go-hdwallet)
+## go-hdwallet (darrenvechain/go-hdwallet)
 
 A multi-cryptocurrency HD wallet implementated by golang. Updated outdated packages (ie. bchutil, btcec, btcutil).
 
@@ -19,7 +19,7 @@ A multi-cryptocurrency HD wallet implementated by golang. Updated outdated packa
 ## install
 
 ```sh
-go get -v -u github.com/leecheuk/go-hdwallet
+go get -v -u github.com/darrenvechain/go-hdwallet
 ```
 
 ## example
@@ -30,7 +30,7 @@ package main
 import (
     "fmt"
 
-    "github.com/leecheuk/go-hdwallet"
+    "github.com/darrenvechain/go-hdwallet"
 )
 
 var (
